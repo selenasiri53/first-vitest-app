@@ -1,0 +1,25 @@
+{
+  "name": "first-vitest-app",
+  "version": "1.0.0",
+  "description": "first vitest app",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:run": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "keywords": [
+    "vitest",
+    "app"
+  ],
+  "author": "medium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme"
+}
